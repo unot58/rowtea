@@ -1,0 +1,19 @@
+{
+  "name": "rowtea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unot58/rowtea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unot58/rowtea/issues"
+  },
+  "homepage": "https://github.com/unot58/rowtea#readme"
+}
